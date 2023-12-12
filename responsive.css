@@ -1,0 +1,638 @@
+/* HOME PAGE RESPONCIVE */
+
+@media screen and (max-width:1174px){
+    .offer1{
+        margin-left: 500px;
+    }
+
+    .owl-item{
+        margin-right: -10px !important;
+    }
+
+    .card{
+        width: 17rem !important;
+    }
+
+    .product-card1{
+        height: 1400px;
+    }
+
+}
+
+@media screen and (max-width:1172px){
+    .nav-link{
+        font-size: 12px !important;
+    }
+    .card{
+        width: 17rem !important;
+    }
+
+    .sale{
+        margin-left: 240px;
+    }
+    .Category-sub{
+        width: 210px;
+    }
+}
+
+@media screen and (max-width:1150px){ 
+
+    .main-btn{
+        width: 219px !important;
+    }
+}
+
+@media screen and (max-width:1093px){
+    
+
+}
+
+@media screen and (max-width:1024px){
+    .input-group{
+     margin-left: 20px !important;
+     width: 264px !important
+    }
+    .nav-link{
+        margin-left: 10px;
+    }
+    .offer{
+        margin-left: -402px;
+    width: 300px;
+    }
+    .yol {
+        margin-left: 264px;
+        margin-top: -261px;
+    }
+    .carousel-caption p{
+        color: #080101
+    }
+    .offer1{
+        margin-left: 487px;
+    width: 350px;
+    }
+
+    .ool{
+        margin-left: 392px;
+    }
+
+    .offer2{
+        width: 200px;
+    }
+}
+
+@media (min-width:769px) and (max-width:992px) {
+
+    .sale{
+        width: 500px;
+        margin-left: 190px;
+    }
+    .Category-main1 h1 {
+        margin-top: 319px;
+    }
+
+    .slider-card{
+        width: 399px;
+        margin-left: -208px;
+    }
+    .card{
+        margin-left: 50px;
+    }
+}
+
+
+
+@media screen and (max-width:768px){
+.sale{
+    margin-left: 72px;
+    width: 544px;
+    margin-top: 10px;
+}
+
+.slider-card{
+    width: 400px;
+    height: 500px;
+    margin-left: -304px;
+}
+.Category-main1 h1 {
+    text-align: center;
+    margin-top: 339px
+}
+.card{
+    margin-left: 40px;
+}
+.offer{
+    width: 256px;
+    height: 267px;
+    margin-left: -259px;
+
+}
+.uol{
+    margin-left: 20px;
+}
+.offer1{
+    margin-left: 300px;
+    width: 200px;
+}
+.iol{
+    margin-left: 10px;
+}
+.ool{
+    margin-left: 242px;
+    font-size: 47px; 
+}
+}
+
+@media screen and (min-width:761px){
+    
+
+    .d-none {
+        display: block;
+    }
+}
+
+@media (min-width:600px) and (max-width:767px) {
+
+    .fkl{
+        width: 200px !important;
+        height: 150px !important;
+    }
+    .tol{
+        font-size: 40px;
+        margin-left: -190px;
+    }
+    .offer{
+        margin-left: -130px;
+        width: 200px;
+        height: 150px;
+    }
+    .ool{
+        padding-top: 100px;
+    }
+
+    .card{
+        width: 26rem !important;
+        height: 399px !important;
+    }
+    .card-img-top{
+        height: 300px;
+    }
+
+    .Category{
+        margin-top: 3000px;
+    }
+
+    .sale{
+        margin-left: 18px;
+    }
+
+    .image{
+        width: 230px;
+    }
+    .overlay{
+        width: 230px;
+    }
+    .Category-sub {
+        margin-left: 30px;
+    }
+}
+
+@media (min-width:500px) and (max-width:600px) {
+    .fkl{
+        width: 150px !important;
+    }
+
+    .sale{
+        width: 280px;
+        margin-left: 80px;
+    }
+
+    .slider-card{
+        width: 380px;
+        margin-left: 3779px;
+    }
+
+    .card{
+        width: 26rem !important;
+        height: 399px !important;
+    }
+    .card-img-top{
+        height: 300px;
+    }
+
+    .Category{
+        margin-top: 3000px;
+    }
+
+
+    .fkl{
+        width: 200px !important;
+        height: 150px !important;
+    }
+    .tol{
+        font-size: 40px;
+        margin-left: -190px;
+    }
+    .offer{
+        margin-left: -130px;
+        width: 200px;
+        height: 150px;
+    }
+    .uol{
+        font-size: 40px;
+    }
+    .ool{
+        padding-top: 100px;
+        font-size: 30px;
+    }
+    .yol{
+        font-size: 50px;
+        margin-left: 73px;
+    }
+    .offer1{
+        margin-left: 186px;
+    }
+}
+
+@media (min-width:425px) and (max-width:500px) {
+    .fkl{
+        width: 200px !important;
+        height: 80px !important;
+    }
+
+    .Category{
+        margin-top: 2000px;
+    }
+    .sale{
+        width: 250px;
+    }
+
+    .slider-card{
+        width: 290px;
+        height:498px;
+    margin-left: 236px;
+    }
+    .product-thumbnail{
+        height:200px !important;
+    }
+    .p-4 {
+        margin-top: -92px;
+    }
+    .card{
+        margin-left: 80px;
+    }
+    .image{
+        width: 300px;
+        height: 400px;
+        margin-left: 40px;
+    }
+    .overlay{
+        width: 300px;
+        margin-left: 40px;
+        background-color: rgb(230, 250, 102);
+    }
+}
+
+@media (min-width:375px) and (max-width:425px) {
+    .fkl{
+        width: 200px !important;
+        height: 80px !important;
+    }
+    .tol{
+        font-size: 36px;
+        margin-left: -164px;
+        margin-top: -420px;
+        position: absolute;
+        
+    }
+    .uol{
+        font-size: 38px;
+    margin-top: -148px;
+    }
+    .yol{
+        font-size: 40px;
+        margin-left: 25px;
+    }
+    .ool{
+        margin-top: -126px;
+    font-size: 41px;
+    margin-left: 74px;
+    }
+    .Category{
+        margin-top: 2000px;
+    }
+    .sale{
+        width: 256px;
+    }
+    .offer{
+        margin-left: -114px;
+        width: 144px;
+        height: 139px;
+        margin-top: -450px;
+    }
+    .slider-card{
+        width: 300px;
+        height: 517px;
+    }
+    .image{
+        width: 300px;
+        height: 400px;
+        margin-left: 20px;
+    }
+    .overlay{
+        width: 300px;
+        margin-left: 20px;
+    
+
+    }
+    .email{
+        width: 282px;
+    }
+}
+
+@media (min-width:320px) and (max-width:375px) {
+    .fkl{
+        width: 100px !important;
+        height: 80px !important;
+    }
+    .tol{
+        font-size: 28px;
+    margin-top: -417px;
+    margin-left: -165px;
+    position: absolute;
+    }
+    .offer{
+        width: 200px;
+    height: 202px;
+    margin-left: -117px;
+    margin-top: -453px;
+    }
+    .yol{
+        font-size: 48px;
+    margin-left: 52px;
+    margin-top: -139px;
+    }
+    .uol{
+        font-size: 40px;
+    margin-top: -159px;
+    }
+    .ool{
+        font-size: 35px;
+    margin-left: 73px;
+    margin-top: -120px;
+    }
+
+
+    .Category{
+        margin-top: 2000px;
+    }
+    .sale{
+        width: 251px;
+    margin-left: 41px;
+    }
+    .slider-card{
+        margin-left: -432px;
+        width: 241px
+    }
+
+    .image{
+        margin-left:45px;
+    }
+    
+}
+
+/* men RESPONCIVE */
+
+@media screen and (max-width:320px) {
+    .form-control{
+        width: 200px !important;
+    }
+}
+
+@media (min-width:1100px) and (max-width:1200px) {
+    .button9{
+        width: 145px;
+    height: 27px;
+    margin-left:41px;
+    }
+}
+
+@media (min-width:1000px) and (max-width:1100px) {
+    .button9{
+        width: 144px;
+    height: 25px;
+    margin-left: 28px;
+    }
+    
+}
+
+@media (min-width:900px) and (max-width:1000px) {
+    .card{
+        margin-left: 10px;
+    }
+
+    .card-wrapper {
+    width: 1058px;
+    height: 414px 
+    }
+    .card-img-top3{
+        width: 200px;
+    }
+    .card3{
+        
+    }
+    .button9{
+        margin-left: 10px;
+    width: 180px;
+    }
+    .item{
+        margin-left: -1828px;
+    }
+    /* .owl-item{
+        margin-left: 187px;
+    width: 300px;
+    } */
+}
+
+@media (min-width:800px) and (max-width:900px){
+    .card-wrapper{
+        width: 1325px;
+    }
+    .button9{
+        margin-left: 10px;
+    width: 180px;
+    }
+    .item{
+        margin-left:-2126px;
+    }
+    .tol{
+        position: absolute;
+        margin-top: -446px;
+    }
+
+    .offer{
+        width: 208px;
+        height: 241px;
+    }
+}
+
+@media (min-width:700px) and (max-width:800px) {
+  .image1{
+width: 229px;
+  }
+  .overlay{
+    width: 229px;
+  }
+  .overlay-card-sub{
+    margin-left:47px;
+  }
+  .card-wrapper{
+    width: 1325px;
+}
+.button9{
+    margin-left: 16px;
+width: 180px;
+}
+}
+
+@media (min-width:600px) and (max-width:700px) {
+    .image1{
+        width: 229px;
+          }
+          .overlay{
+            width: 229px;
+          }
+          .overlay-card-sub{
+            margin-left:40px;
+          }
+          .card-wrapper{
+            width: 1325px;
+        }
+
+        .button9{
+            margin-left: 16px;
+        width: 180px;
+        }
+}
+@media (min-width:500px) and (max-width:600px){
+    .overlay-card-main2{
+        margin-left:7px !important;
+    }
+    .card-wrapper{
+        width: 1325px;
+    }
+    .button9{
+        margin-left: 16px;
+    width: 180px
+}
+}
+@media (min-width:400px) and (max-width:500px){
+    .overlay-card-main2{
+        margin-left: 98px;
+
+    }
+    .image1{
+        width: 300px;
+        height:421px;
+    }
+    .overlay{
+        width: 300px;
+        margin-left: 0px;
+    }
+    .card-wrapper{
+        width: 1556px;
+    }
+}
+
+@media (min-width:300px) and (max-width:400px) {
+    .image1{
+        width: 250px;
+        height:421px;
+    }
+    .overlay{
+        width: 250px;
+        margin-left: 0px;
+    }
+    .card-wrapper{
+        width: 1556px;
+    }
+
+    .card3{
+        margin-left: 39px;
+    }
+}
+
+
+/* ------------------------------------------------------------------------------ */
+/* about us  */
+
+@media (min-width:768px) and (max-width:1024px){
+    .yik{
+        width: 300px !important;
+    padding-top: 85px;
+    
+}
+
+.ynh{
+    width: 300px !important;
+    padding-top: 85px;
+    margin-left: 20px;
+}
+.form-control{
+    width: 230px !important;
+}
+}
+
+@media (min-width:425px) and (max-width:768px) {
+    .yik{
+        width:200px !important;
+    }
+    .ynh{
+        width: 200px !important;
+        margin-left: 10px;
+    }
+
+    .about-sub1 h1{
+        margin-left: 10px;
+    font-size: 59px;
+        
+    }
+    .about-sub2{
+        margin-top: 160px;
+    }
+
+    .form-control{
+        width: 200px !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -------------------------------------------------------------------- */
+
+/* MEN SECTION */
+
+
